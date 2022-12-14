@@ -1,0 +1,72 @@
+/* Cursor Pointer */
+.cursor-pointer {
+  cursor: pointer;
+}
+
+/* Link */
+.link {
+  border: 1px solid #fff;
+  color: #fff;
+  padding: 0 5px;
+  width: 100px;
+  text-align: center;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.link:hover {
+  border: 1px solid #fff;
+  background-color: #fff;
+  color: #0d6efd;
+  padding: 0 5px;
+  width: 100px;
+  text-align: center;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+/* Active Link */
+.active-link {
+  background-color: #fff;
+  color: #0d6efd;
+  border: 1px solid #fff;
+  padding: 0 5px;
+  width: 100px;
+  text-align: center;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+/* Tabs */
+.tabs {
+  margin-top: 30px;
+  border: 1px solid #0d6efd;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+/* Content */
+.content {
+  margin-top: 85px;
+  margin-bottom: 50px;
+}
+
+/* Button */
+.button {
+  width: 100px;
+}
+
+/* Article Card */
+.article-card {
+  cursor: pointer;
+}
+
+.article-card:hover {
+  background-color: #0d6efd;
+  color: #fff;
+}
+
+/* Text Content */
+.text-content {
+  text-align: justify;
+}
